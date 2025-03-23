@@ -1,0 +1,61 @@
+{
+    "days": [
+      {
+        "id": "1",
+        "day": 1
+      },
+      {
+        "id": "2",
+        "day": 2
+      },
+      {
+        "id": "3",
+        "day": 3
+      },
+      {
+        "id": "4",
+        "day": 4
+      },
+      {
+        "id": "7484",
+        "day": 5
+      }
+    ],
+    "words": [
+      {
+        "id": "3",
+        "day": 2,
+        "eng": "car",
+        "kor": "자동차",
+        "isDone": true
+      },
+      {
+        "id": "bc19",
+        "day": "1",
+        "eng": "window",
+        "kor": "창문",
+        "isDone": false
+      },
+      {
+        "id": "ea25",
+        "day": "2",
+        "eng": "mouse",
+        "kor": "쥐",
+        "isDone": false
+      },
+      {
+        "id": "6644",
+        "day": "3",
+        "eng": "money",
+        "kor": "돈",
+        "isDone": false
+      },
+      {
+        "id": "ae73",
+        "day": "2",
+        "eng": "computer",
+        "kor": "컴퓨터",
+        "isDone": false
+      }
+    ]
+  }
