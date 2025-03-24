@@ -1,8 +1,12 @@
-import data from '../db/data.json'
 import {Link} from 'react-router-dom'
+import useGetFatch from '../hook/useGetFetch';
 
 export default function DayList(){
-    const days = data.days;
+    const days = useGetFatch('http://localhost:3012/days');
+
+    if(days.length === 0){
+        return <span>Loading ...</span>
+    }
 
     return (
         <ul className='list_day'>
