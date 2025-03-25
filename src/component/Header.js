@@ -8,8 +8,8 @@ export default function Header() {
             </h1>
 
             <div className='menu'>
-                <button>단어추가</button>
-                <button>날짜추가</button>
+                <Link to='/add_word' className='link'>단어 추가</Link>
+                <Link to='/add_day' className='link'>Day 추가</Link>
             </div>
         </div>
     )

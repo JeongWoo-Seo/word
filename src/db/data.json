@@ -42,6 +42,20 @@
       "eng": "computer",
       "kor": "컴퓨터",
       "isDone": false
+    },
+    {
+      "id": "4bf6",
+      "day": "1",
+      "eng": "day",
+      "kor": "날짜",
+      "isDone": false
+    },
+    {
+      "id": "9505",
+      "day": "3",
+      "eng": "bird",
+      "kor": "새",
+      "isDone": false
     }
   ]
 }
